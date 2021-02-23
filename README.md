@@ -3,7 +3,7 @@ clone peatio
 
 go into the folder /lib/peatio
 
-create a folder namede dogecoin
+create a folder named dogecoin
 
 upload the files blockchain.rb / client.rb / wallet.rb
 
