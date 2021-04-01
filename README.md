@@ -33,5 +33,13 @@ change peatio image in /opendax/config/app.yml
 
 rake render:config && rake service:app
 
+Donate
+
+btc : 1HMxPrWjYc7mtT5ajrSTkem2YUKcHDrbcM
+
+eth : 0x90009fe658A99E8289C0EB1cCB5290E2b6C6DB9e
+
+doge : DSCRUbhDeg2gxgFdhz4zgfYWLyYuB79KZ3
+
 
 thats all,tested and working for v2.3 and 2.4 of openware
