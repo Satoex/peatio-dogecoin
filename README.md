@@ -11,7 +11,9 @@ go in the folder /peatio/config/initializers
 
 open the file blockchain_api.rb
 
-and paste this      
+and paste this   
+
+***** Starting from version 2.4 you must delete .new so will be Dogecoin::Blockchain and Dogecoin::Wallet ********
 
 Peatio::Blockchain.registry[:dogecoin] = Dogecoin::Blockchain.new
 
